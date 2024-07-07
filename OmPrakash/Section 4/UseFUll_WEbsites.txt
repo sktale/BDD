@@ -1,3 +1,5 @@
+
+https://askomdch.com/--> om praksh's site with the api
 https://www.saucedemo.com/v1/ --> no back end
 https://www.automationexercise.com/
 https://the-internet.herokuapp.com/ --> to intract ith the elements
