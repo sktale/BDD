@@ -1,4 +1,4 @@
-package Section_7;
+package Section_7.one_1;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
