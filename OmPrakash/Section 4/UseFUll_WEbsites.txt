@@ -1,0 +1,4 @@
+https://www.saucedemo.com/v1/ --> no back end
+https://www.automationexercise.com/
+https://the-internet.herokuapp.com/ --> to intract ith the elements
+https://demoqa.com/books -->< have apis
