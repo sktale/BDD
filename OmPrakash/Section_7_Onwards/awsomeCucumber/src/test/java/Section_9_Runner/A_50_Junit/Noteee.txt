@@ -1,0 +1,26 @@
+  <dependency>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-junit</artifactId>
+      <version>7.17.0</version>
+      <scope>test</scope>
+      <!-- <scope>compile</scope> use this tests are in main folder-->
+    </dependency>
+
+
+
+    Create an empty class that uses the Cucumber JUnit runner.
+--> Class name must end with Test
+    package com.example;
+
+    import io.cucumber.junit.Cucumber;
+    import io.cucumber.junit.CucumberOptions;
+    import org.junit.runner.RunWith;
+
+    @RunWith(Cucumber.class)
+    @CucumberOptions()
+    public class RunCucumberTest {
+    }
+
+
+
+    Notes if we are not defining explicilty the path for glue code then both must be in same package i.e featureFIle and StepDefincation
